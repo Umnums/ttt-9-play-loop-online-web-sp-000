@@ -41,5 +41,4 @@ def play(board)
   until index = 9
     turn(board)
     i++
-  end
 end
