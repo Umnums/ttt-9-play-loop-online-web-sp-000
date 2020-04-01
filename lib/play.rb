@@ -41,6 +41,6 @@ def play(board)
   while i < 9
     puts "this thing"
     turn(board)
-    i++
+    i += 1
 
 end
