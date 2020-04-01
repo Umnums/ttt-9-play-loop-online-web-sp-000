@@ -42,5 +42,5 @@ def play(board)
     puts "this thing"
     turn(board)
     i++
-  end
+
 end
